@@ -3,7 +3,9 @@ Returns one or more random nouns, verbs, adjectives or adverbs, asynchronously t
 Each call opens a file exactly once, as a stream. This means that `getAny()` always returns words of the same type in one call.
 
 ##Install
-		npm install random-part-of-speech
+```
+npm install random-part-of-speech
+```
 
 ## Usage
 ```js

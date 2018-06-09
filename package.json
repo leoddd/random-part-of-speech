@@ -1,0 +1,31 @@
+{
+  "name": "random-part-of-speech",
+  "version": "1.0.0",
+  "description": "Returns one or more random nouns, verbs, adjectives or adverbs.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "readme": "readme"
+  },
+  "keywords": [
+    "random",
+    "part of speech",
+    "text",
+    "generator",
+    "word",
+    "words",
+    "verb",
+    "verbs",
+    "noun",
+    "nouns",
+    "adjective",
+    "adjectives",
+    "adverb",
+    "adverbs"
+  ],
+  "author": "Tim Schellenberg <tschellenb@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs-readstream-seek": "^1.1.1"
+  }
+}
